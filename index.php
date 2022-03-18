@@ -65,7 +65,7 @@ function scrolltotop()
 </script>
 <footer>
   <span>copyright &copy; <script> document.write(new Date().getFullYear()); </script> - developed by
-    <b><a href="https://github.com/ShellyScot/" target="_blank">hekelpro</a></b>
+    <b><a href="https://github.com/ShellyScot/" target="_blank">ShellyScot</a></b>
   </span>
 </footer>
 </body>
